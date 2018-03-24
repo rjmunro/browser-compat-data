@@ -28,21 +28,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/DangerType",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -50,21 +36,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/DoubleDelta",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -72,84 +44,28 @@
           "byExtensionId": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "byExtensionName": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "bytesReceived": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "canResume": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
@@ -204,21 +120,7 @@
           "error": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
@@ -246,252 +148,84 @@
           "exists": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "filename": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "fileSize": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "id": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "incognito": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "mime": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "paused": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "referrer": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "startTime": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "state": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "totalBytes": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "url": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           }
@@ -500,21 +234,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/DownloadQuery",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -522,21 +242,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/DownloadTime",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -544,21 +250,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/FilenameConflictAction",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           },
           "prompt": {
@@ -587,21 +279,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/InterruptReason",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -609,21 +287,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/State",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -631,21 +295,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/StringDelta",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -697,21 +347,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/download",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           },
           "body": {
@@ -738,63 +374,21 @@
           "conflictAction": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "filename": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
           "headers": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "47"
-                },
-                "firefox_android": {
-                  "version_added": "48"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
               }
             }
           },
@@ -944,21 +538,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/onChanged",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },
@@ -1098,21 +678,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/downloads/search",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "47"
-              },
-              "firefox_android": {
-                "version_added": "48"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/downloads/BooleanDelta/__compat"
             }
           }
         },

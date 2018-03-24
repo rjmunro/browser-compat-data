@@ -52,42 +52,7 @@
           "description": "RTCIceCandidate()",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/RTCIceCandidate",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -148,42 +113,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/foundation",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -196,42 +126,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/ip",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -244,42 +139,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/port",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -292,42 +152,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/priority",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -340,42 +165,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/protocol",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -388,42 +178,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/relatedAddress",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -436,42 +191,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/relatedPort",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -580,42 +300,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/tcpType",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": true,
@@ -628,42 +313,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/type",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "22"
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/RTCIceCandidate/__compat"
           },
           "status": {
             "experimental": false,

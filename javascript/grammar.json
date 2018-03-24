@@ -110,45 +110,7 @@
           "description": "Boolean literals (<code>true</code>/<code>false</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Boolean_literal",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -162,45 +124,7 @@
           "description": "Decimal numeric literals (<code>1234567890</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Decimal",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -214,45 +138,7 @@
           "description": "Hexadecimal escape sequences (<code>'\\0xA9'</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Hexadecimal_escape_sequences",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -266,45 +152,7 @@
           "description": "Hexadecimal numeric literals (<code>0xAF</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Hexadecimal",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -318,45 +166,7 @@
           "description": "Null literal (<code>null</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Null_literal",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -422,45 +232,7 @@
           "description": "Regular expression literals (<code>/ab+c/g</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Regular_expression_literals",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -474,45 +246,7 @@
           "description": "String literals (<code>'Hello world'</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#String_literals",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -526,45 +260,7 @@
           "description": "Unicode escape sequences (<code>'\\u00A9'</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Unicode_escape_sequences",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,
@@ -784,45 +480,7 @@
           "description": "Trailing commas",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Trailing_commas",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "1"
-            },
-            "firefox_android": {
-              "version_added": "4"
-            },
-            "ie": {
-              "version_added": true
-            },
-            "nodejs": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/javascript/grammar/array_literals/__compat"
           },
           "status": {
             "experimental": false,

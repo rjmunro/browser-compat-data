@@ -92,21 +92,7 @@
             "__compat": {
               "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/devtools.inspectedWindow/reload",
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "54"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
               }
             }
           },
@@ -114,21 +100,7 @@
             "__compat": {
               "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/devtools.inspectedWindow/tabId",
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "54"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
               }
             }
           }
@@ -160,21 +132,7 @@
             "__compat": {
               "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/devtools.network/onNavigated",
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "54"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
               }
             }
           },
@@ -252,21 +210,7 @@
             "onHidden": {
               "__compat": {
                 "support": {
-                  "chrome": {
-                    "version_added": true
-                  },
-                  "edge": {
-                    "version_added": false
-                  },
-                  "firefox": {
-                    "version_added": "54"
-                  },
-                  "firefox_android": {
-                    "version_added": false
-                  },
-                  "opera": {
-                    "version_added": true
-                  }
+                  "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
                 }
               }
             },
@@ -294,21 +238,7 @@
             "onShown": {
               "__compat": {
                 "support": {
-                  "chrome": {
-                    "version_added": true
-                  },
-                  "edge": {
-                    "version_added": false
-                  },
-                  "firefox": {
-                    "version_added": "54"
-                  },
-                  "firefox_android": {
-                    "version_added": false
-                  },
-                  "opera": {
-                    "version_added": true
-                  }
+                  "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
                 }
               }
             }
@@ -425,21 +355,7 @@
             "__compat": {
               "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/devtools.panels/create",
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "54"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/devtools/inspectedWindow/eval/__compat"
               }
             }
           },

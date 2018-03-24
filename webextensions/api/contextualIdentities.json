@@ -27,21 +27,7 @@
           "color": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": false
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "53"
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/api/contextualIdentities/ContextualIdentity/cookieStoreId/__compat"
               }
             }
           },
@@ -69,21 +55,7 @@
           "icon": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": false
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "53"
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/api/contextualIdentities/ContextualIdentity/cookieStoreId/__compat"
               }
             }
           },
@@ -111,21 +83,7 @@
           "name": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": false
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "53"
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/api/contextualIdentities/ContextualIdentity/cookieStoreId/__compat"
               }
             }
           }

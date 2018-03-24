@@ -52,42 +52,7 @@
           "__compat": {
             "description": "<code>from-image</code>",
             "support": {
-              "webview_android": {
-                "version_added": false
-              },
-              "chrome": {
-                "version_added": false
-              },
-              "chrome_android": {
-                "version_added": null
-              },
-              "edge": {
-                "version_added": null
-              },
-              "edge_mobile": {
-                "version_added": null
-              },
-              "firefox": {
-                "version_added": "26"
-              },
-              "firefox_android": {
-                "version_added": "26"
-              },
-              "ie": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": false
-              },
-              "opera_android": {
-                "version_added": false
-              },
-              "safari": {
-                "version_added": false
-              },
-              "safari_ios": {
-                "version_added": false
-              }
+              "$ref": "#/css/properties/image-orientation/__compat"
             },
             "status": {
               "experimental": true,
@@ -100,42 +65,7 @@
           "__compat": {
             "description": "<code>flip</code>",
             "support": {
-              "webview_android": {
-                "version_added": false
-              },
-              "chrome": {
-                "version_added": false
-              },
-              "chrome_android": {
-                "version_added": null
-              },
-              "edge": {
-                "version_added": null
-              },
-              "edge_mobile": {
-                "version_added": null
-              },
-              "firefox": {
-                "version_added": "26"
-              },
-              "firefox_android": {
-                "version_added": "26"
-              },
-              "ie": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": false
-              },
-              "opera_android": {
-                "version_added": false
-              },
-              "safari": {
-                "version_added": false
-              },
-              "safari_ios": {
-                "version_added": false
-              }
+              "$ref": "#/css/properties/image-orientation/__compat"
             },
             "status": {
               "experimental": true,

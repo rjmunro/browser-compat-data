@@ -266,42 +266,7 @@
           "description": "<code>data-*</code> attributes",
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/data-*",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -314,42 +279,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/dir",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -626,42 +556,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/itemid",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -674,42 +569,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/itemprop",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -722,42 +582,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/itemref",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -770,42 +595,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/itemscope",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -818,42 +608,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/itemtype",
           "support": {
-            "webview_android": {
-              "version_added": true
-            },
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -866,42 +621,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/lang",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -1011,42 +731,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/style",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -1059,42 +744,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/tabindex",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,
@@ -1107,42 +757,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/title",
           "support": {
-            "chrome": {
-              "version_added": true
-            },
-            "chrome_android": {
-              "version_added": true
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": true
-            },
-            "firefox_android": {
-              "version_added": true
-            },
-            "ie": {
-              "version_added": true
-            },
-            "opera": {
-              "version_added": true
-            },
-            "opera_android": {
-              "version_added": true
-            },
-            "safari": {
-              "version_added": true
-            },
-            "safari_ios": {
-              "version_added": true
-            },
-            "webview_android": {
-              "version_added": true
-            }
+            "$ref": "#/html/global_attributes/accesskey/__compat"
           },
           "status": {
             "experimental": false,

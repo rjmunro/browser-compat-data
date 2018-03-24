@@ -59,45 +59,7 @@
             "description": "Inequality (<code>a != b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Inequality",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -111,45 +73,7 @@
             "description": "Identity (<code>a === b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Identity",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -163,45 +87,7 @@
             "description": "Non-identity (<code>a !== b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Nonidentity",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -215,45 +101,7 @@
             "description": "Greater than (<code>a &gt; b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Greater_than_operator",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -267,45 +115,7 @@
             "description": "Greater than or equal (<code>a &gt;= b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Greater_than_or_equal_operator",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -319,45 +129,7 @@
             "description": "Less than (<code>a &lt; b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Less_than_operator",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,
@@ -371,45 +143,7 @@
             "description": "Less than or equal (<code>a &lt;= b</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Less_than_or_equal_operator",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/comparison/equality/__compat"
             },
             "status": {
               "experimental": false,

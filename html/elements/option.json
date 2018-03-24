@@ -51,42 +51,7 @@
         "disabled": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": "1"
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/option/__compat"
             },
             "status": {
               "experimental": false,
@@ -151,42 +116,7 @@
         "selected": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": "1"
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/option/__compat"
             },
             "status": {
               "experimental": false,
@@ -198,42 +128,7 @@
         "value": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": "1"
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/option/__compat"
             },
             "status": {
               "experimental": false,

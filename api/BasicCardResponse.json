@@ -65,56 +65,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/cardNumber",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,
@@ -127,56 +78,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/cardholderName",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,
@@ -189,56 +91,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/cardSecurityCode",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,
@@ -251,56 +104,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/expiryMonth",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,
@@ -313,56 +117,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/expiryYear",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,
@@ -375,56 +130,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BasicCardResponse/billingAddress",
           "support": {
-            "webview_android": {
-              "version_added": false
-            },
-            "chrome": {
-              "version_added": false
-            },
-            "chrome_android": {
-              "version_added": "57"
-            },
-            "edge": {
-              "version_added": true
-            },
-            "edge_mobile": {
-              "version_added": true
-            },
-            "firefox": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "firefox_android": {
-              "version_added": "56",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "dom.payments.request.enabled",
-                  "value_to_set": "true"
-                }
-              ]
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": false
-            },
-            "opera_android": {
-              "version_added": false
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            }
+            "$ref": "#/api/BasicCardResponse/__compat"
           },
           "status": {
             "experimental": true,

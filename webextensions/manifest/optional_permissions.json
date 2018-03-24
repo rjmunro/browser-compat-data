@@ -46,42 +46,14 @@
         "clipboardRead": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "clipboardWrite": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
@@ -109,21 +81,7 @@
         "cookies": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
@@ -151,147 +109,49 @@
         "idle": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "notifications": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "tabs": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "topSites": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "webNavigation": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "webRequest": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },
         "webRequestBlocking": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": "55"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/manifest/optional_permissions/__compat"
             }
           }
         },

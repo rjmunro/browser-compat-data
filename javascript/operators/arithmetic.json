@@ -59,45 +59,7 @@
             "description": "Decrement (<code>--</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Decrement",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -111,45 +73,7 @@
             "description": "Division (<code>/</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Division",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -215,45 +139,7 @@
             "description": "Increment (<code>++</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -267,45 +153,7 @@
             "description": "Multiplication (<code>*</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Multiplication",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -319,45 +167,7 @@
             "description": "Remainder (<code>%</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -371,45 +181,7 @@
             "description": "Subtraction (<code>-</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Subtraction",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -423,45 +195,7 @@
             "description": "Unary negation (<code>-</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_negation",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,
@@ -475,45 +209,7 @@
             "description": "Unary plus (<code>+</code>)",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": "1"
-              },
-              "firefox_android": {
-                "version_added": "4"
-              },
-              "ie": {
-                "version_added": true
-              },
-              "nodejs": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/javascript/operators/arithmetic/addition/__compat"
             },
             "status": {
               "experimental": false,

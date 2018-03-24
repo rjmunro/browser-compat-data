@@ -54,45 +54,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/actions",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -105,45 +67,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/badge",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -156,45 +80,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/body",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -207,45 +93,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/data",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -258,45 +106,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/dir",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -309,45 +119,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/icon",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -360,45 +132,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/image",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -411,45 +145,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/lang",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -462,45 +158,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/maxActions",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -513,45 +171,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/onclick",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -564,45 +184,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/onclose",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -615,45 +197,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/onerror",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -666,45 +210,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/onshow",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -717,45 +223,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/permission",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -768,45 +236,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/renotify",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -819,45 +249,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/requireInteraction",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -870,45 +262,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/silent",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -921,45 +275,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/tag",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -972,45 +288,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/timestamp",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -1023,45 +301,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/title",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -1074,45 +314,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/vibrate",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -1125,45 +327,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/close",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,
@@ -1176,45 +340,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Notification/requestPermission",
           "support": {
-            "webview_android": {
-              "version_added": null
-            },
-            "chrome": {
-              "version_added": null
-            },
-            "chrome_android": {
-              "version_added": null
-            },
-            "edge": {
-              "version_added": null
-            },
-            "edge_mobile": {
-              "version_added": null
-            },
-            "firefox": {
-              "version_added": null
-            },
-            "firefox_android": {
-              "version_added": null
-            },
-            "ie": {
-              "version_added": null
-            },
-            "opera": {
-              "version_added": null
-            },
-            "opera_android": {
-              "version_added": null
-            },
-            "safari": {
-              "version_added": null
-            },
-            "safari_ios": {
-              "version_added": null
-            },
-            "samsunginternet_android": {
-              "version_added": null
-            }
+            "$ref": "#/api/Notification/__compat"
           },
           "status": {
             "experimental": false,

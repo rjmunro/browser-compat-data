@@ -93,21 +93,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/history/addUrl",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "49"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/history/HistoryItem/__compat"
             }
           },
           "title": {
@@ -178,21 +164,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/history/deleteAll",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "49"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/history/HistoryItem/__compat"
             }
           }
         },
@@ -200,21 +172,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/history/deleteRange",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "49"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/history/HistoryItem/__compat"
             }
           }
         },
@@ -222,21 +180,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/history/deleteUrl",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "49"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/history/HistoryItem/__compat"
             }
           }
         },
@@ -335,21 +279,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/history/search",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "49"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/history/HistoryItem/__compat"
             }
           }
         }

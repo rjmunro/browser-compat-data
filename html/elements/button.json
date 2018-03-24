@@ -145,42 +145,7 @@
         "disabled": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,
@@ -380,42 +345,7 @@
         "formnovalidate": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,
@@ -427,42 +357,7 @@
         "formtarget": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,
@@ -474,42 +369,7 @@
         "name": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,
@@ -521,42 +381,7 @@
         "type": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,
@@ -568,42 +393,7 @@
         "value": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": true
-              },
-              "safari_ios": {
-                "version_added": true
-              }
+              "$ref": "#/html/elements/button/__compat"
             },
             "status": {
               "experimental": false,

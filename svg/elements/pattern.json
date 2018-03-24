@@ -192,42 +192,7 @@
         "x": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": "3"
-              },
-              "safari_ios": {
-                "version_added": "3"
-              }
+              "$ref": "#/svg/elements/pattern/__compat"
             },
             "status": {
               "experimental": false,
@@ -239,42 +204,7 @@
         "y": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": "3"
-              },
-              "safari_ios": {
-                "version_added": "3"
-              }
+              "$ref": "#/svg/elements/pattern/__compat"
             },
             "status": {
               "experimental": false,
@@ -286,42 +216,7 @@
         "height": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": "3"
-              },
-              "safari_ios": {
-                "version_added": "3"
-              }
+              "$ref": "#/svg/elements/pattern/__compat"
             },
             "status": {
               "experimental": false,
@@ -333,42 +228,7 @@
         "width": {
           "__compat": {
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": "3"
-              },
-              "safari_ios": {
-                "version_added": "3"
-              }
+              "$ref": "#/svg/elements/pattern/__compat"
             },
             "status": {
               "experimental": false,
@@ -428,42 +288,7 @@
           "__compat": {
             "description": "<code>xlink:href</code>",
             "support": {
-              "webview_android": {
-                "version_added": true
-              },
-              "chrome": {
-                "version_added": true
-              },
-              "chrome_android": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": true
-              },
-              "edge_mobile": {
-                "version_added": true
-              },
-              "firefox": {
-                "version_added": true
-              },
-              "firefox_android": {
-                "version_added": true
-              },
-              "ie": {
-                "version_added": true
-              },
-              "opera": {
-                "version_added": true
-              },
-              "opera_android": {
-                "version_added": true
-              },
-              "safari": {
-                "version_added": "3"
-              },
-              "safari_ios": {
-                "version_added": "3"
-              }
+              "$ref": "#/svg/elements/pattern/__compat"
             },
             "status": {
               "experimental": false,

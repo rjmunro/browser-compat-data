@@ -50,21 +50,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/sidebarAction/getPanel",
             "support": {
-              "chrome": {
-                "version_added": false
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "54"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/sidebarAction/ImageDataType/__compat"
             }
           }
         },
@@ -72,21 +58,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/sidebarAction/getTitle",
             "support": {
-              "chrome": {
-                "version_added": false
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "54"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/sidebarAction/ImageDataType/__compat"
             }
           }
         },
@@ -138,21 +110,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/sidebarAction/setIcon",
             "support": {
-              "chrome": {
-                "version_added": false
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "54"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/sidebarAction/ImageDataType/__compat"
             }
           },
           "null": {
@@ -182,21 +140,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/sidebarAction/setPanel",
             "support": {
-              "chrome": {
-                "version_added": false
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "54"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/sidebarAction/ImageDataType/__compat"
             }
           },
           "null": {
@@ -226,21 +170,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/sidebarAction/setTitle",
             "support": {
-              "chrome": {
-                "version_added": false
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "54"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/sidebarAction/ImageDataType/__compat"
             }
           },
           "null": {

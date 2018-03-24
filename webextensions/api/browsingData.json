@@ -27,42 +27,14 @@
           "cookies": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
           "downloads": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
@@ -90,42 +62,14 @@
           "formData": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
           "history": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
@@ -174,42 +118,14 @@
           "passwords": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
           "pluginData": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           },
@@ -237,21 +153,7 @@
           "serviceWorkers": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "53"
-                },
-                "firefox_android": {
-                  "version_added": "56"
-                },
-                "opera": {
-                  "version_added": true
-                }
+                "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
               }
             }
           }
@@ -429,21 +331,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/browsingData/removeCookies",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "53"
-              },
-              "firefox_android": {
-                "version_added": "56"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
             }
           }
         },
@@ -615,21 +503,7 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/browsingData/settings",
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "53"
-              },
-              "firefox_android": {
-                "version_added": "56"
-              },
-              "opera": {
-                "version_added": true
-              }
+              "$ref": "#/webextensions/api/browsingData/DataTypeSet/cache/__compat"
             }
           }
         }

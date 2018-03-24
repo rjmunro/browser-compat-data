@@ -43,33 +43,7 @@
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BroadcastChannel/BroadcastChannel",
           "description": "<code>BroadcastChannel()</code> constructor",
           "support": {
-            "webview_android": {
-              "version_added": "54"
-            },
-            "chrome": {
-              "version_added": "54"
-            },
-            "chrome_android": {
-              "version_added": "54"
-            },
-            "firefox": {
-              "version_added": "38"
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": "41"
-            },
-            "opera_android": {
-              "version_added": "41"
-            },
-            "safari": {
-              "version_added": false
-            },
-            "safari_ios": {
-              "version_added": false
-            }
+            "$ref": "#/api/BroadcastChannel/__compat"
           },
           "status": {
             "experimental": false,
@@ -82,33 +56,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BroadcastChannel/name",
           "support": {
-            "webview_android": {
-              "version_added": "54"
-            },
-            "chrome": {
-              "version_added": "54"
-            },
-            "chrome_android": {
-              "version_added": "54"
-            },
-            "firefox": {
-              "version_added": "38"
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": "41"
-            },
-            "opera_android": {
-              "version_added": "41"
-            },
-            "safari": {
-              "version_added": false
-            },
-            "safari_ios": {
-              "version_added": false
-            }
+            "$ref": "#/api/BroadcastChannel/__compat"
           },
           "status": {
             "experimental": false,
@@ -121,33 +69,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BroadcastChannel/onmessage",
           "support": {
-            "webview_android": {
-              "version_added": "54"
-            },
-            "chrome": {
-              "version_added": "54"
-            },
-            "chrome_android": {
-              "version_added": "54"
-            },
-            "firefox": {
-              "version_added": "38"
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": "41"
-            },
-            "opera_android": {
-              "version_added": "41"
-            },
-            "safari": {
-              "version_added": false
-            },
-            "safari_ios": {
-              "version_added": false
-            }
+            "$ref": "#/api/BroadcastChannel/__compat"
           },
           "status": {
             "experimental": false,
@@ -199,33 +121,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BroadcastChannel/close",
           "support": {
-            "webview_android": {
-              "version_added": "54"
-            },
-            "chrome": {
-              "version_added": "54"
-            },
-            "chrome_android": {
-              "version_added": "54"
-            },
-            "firefox": {
-              "version_added": "38"
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": "41"
-            },
-            "opera_android": {
-              "version_added": "41"
-            },
-            "safari": {
-              "version_added": false
-            },
-            "safari_ios": {
-              "version_added": false
-            }
+            "$ref": "#/api/BroadcastChannel/__compat"
           },
           "status": {
             "experimental": false,
@@ -238,33 +134,7 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BroadcastChannel/postMessage",
           "support": {
-            "webview_android": {
-              "version_added": "54"
-            },
-            "chrome": {
-              "version_added": "54"
-            },
-            "chrome_android": {
-              "version_added": "54"
-            },
-            "firefox": {
-              "version_added": "38"
-            },
-            "ie": {
-              "version_added": false
-            },
-            "opera": {
-              "version_added": "41"
-            },
-            "opera_android": {
-              "version_added": "41"
-            },
-            "safari": {
-              "version_added": false
-            },
-            "safari_ios": {
-              "version_added": false
-            }
+            "$ref": "#/api/BroadcastChannel/__compat"
           },
           "status": {
             "experimental": false,

@@ -25,42 +25,14 @@
         "homepage": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": false
-              }
+              "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
             }
           }
         },
         "search_provider": {
           "__compat": {
             "support": {
-              "chrome": {
-                "version_added": true
-              },
-              "edge": {
-                "version_added": false
-              },
-              "firefox": {
-                "version_added": "55"
-              },
-              "firefox_android": {
-                "version_added": false
-              },
-              "opera": {
-                "version_added": false
-              }
+              "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
             }
           },
           "alternate_urls": {
@@ -108,21 +80,7 @@
           "favicon_url": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "55"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
               }
             }
           },
@@ -237,42 +195,14 @@
           "keyword": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "55"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
               }
             }
           },
           "name": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "55"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
               }
             }
           },
@@ -300,21 +230,7 @@
           "search_url": {
             "__compat": {
               "support": {
-                "chrome": {
-                  "version_added": true
-                },
-                "edge": {
-                  "version_added": false
-                },
-                "firefox": {
-                  "version_added": "55"
-                },
-                "firefox_android": {
-                  "version_added": false
-                },
-                "opera": {
-                  "version_added": false
-                }
+                "$ref": "#/webextensions/manifest/chrome_settings_overrides/__compat"
               }
             }
           },
